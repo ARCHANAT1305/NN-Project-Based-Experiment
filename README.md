@@ -123,4 +123,6 @@ plt.show()
 
 <img width="932" height="416" alt="image" src="https://github.com/user-attachments/assets/0d84f4f6-84cc-4ad6-8db1-31ca516f074e" />
 
+## Result:
 
+Thus the program to build a Multilayer Perceptron (MLP) to classify handwritten digits in python was executed successfully.
